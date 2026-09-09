@@ -4,23 +4,9 @@
 
 ### Computer Science & Engineering Student | AI/ML Enthusiast | Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Natural+Language+Processing;Flutter+%26+Backend+Development;Learning+%7C+Building+%7C+Researching" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Natural+Language+Processing;Flutter+%26+Backend+Development;Exploring+AI+Research;Learning+%7C+Building+%7C+Researching" alt="Typing SVG" />
 
 <br>
-
-<a href="https://github.com/therash08">
-  <img src="https://img.shields.io/badge/GitHub-therash08-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/rasidul-hoque-chowdhury">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:therash792@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=therash08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
@@ -30,110 +16,174 @@
 
 ## 🚀 About Me
 
-- 🎓 CSE Student at **Leading University**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning & NLP**
-- 🔬 Exploring **AI research and Machine Learning methodologies**
-- 📱 Building cross-platform applications with **Flutter**
-- ⚙️ Working with **FastAPI, Firebase, and Databases**
-- 🧠 Interested in **Software Engineering and Compiler Design**
-- 🌱 Always learning, building, and improving
-- 🎯 Aiming to build a strong profile in **AI/ML research and software development**
+* 🎓 Computer Science & Engineering student at **Leading University**
+* 🤖 Interested in **Artificial Intelligence, Machine Learning & NLP**
+* 🔬 Exploring **AI research, Machine Learning methodologies, and real-world applications**
+* 📱 Building cross-platform applications using **Flutter**
+* ⚙️ Learning and working with **FastAPI, Firebase, PostgreSQL, and backend technologies**
+* 🧠 Interested in **Software Engineering, Compiler Design, and Intelligent Systems**
+* 📊 Exploring **Data Science, model development, and model evaluation**
+* 🌱 Continuously learning, building projects, and improving my technical skills
+* 🎯 Working toward a strong profile in **AI/ML research and software development**
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,dart" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,dart" alt="Programming Languages" />
 </p>
 
-### ⚙️ Frameworks & Technologies
+**Python • C++ • C • Java • Dart**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,fastapi,firebase" />
+---
+
+## ⚙️ Frameworks & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,fastapi,firebase" alt="Frameworks and Technologies" />
 </p>
 
-### 🗄️ Databases
+**Flutter • FastAPI • Firebase**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
 </p>
 
-### 🤖 Machine Learning & Data Science
+**MySQL • PostgreSQL**
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+---
+
+## 🤖 Machine Learning & Data Science
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-### 🛠️ Tools
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+## 🛠️ Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
 </p>
 
----
-
-## 🔥 Featured Projects
-
-- 🇧🇩 **[BanglaBhasha Compiler](https://github.com/therash08/BanglaBhasha-Compiler)**  
-  A Bengali programming language compiler built with Python, featuring compiler phases and an interactive web playground.
-
-- 📱 **AmarCampus**  
-  A campus management application built with **Flutter and Firebase**.
-
-- 🤖 **AI / ML Projects**  
-  Projects involving **Machine Learning, NLP, classification, recommendation systems, and data analysis**.
+**Git • GitHub • Visual Studio Code**
 
 ---
 
-## 🔬 Research Interests
+# 🔥 Featured Projects
 
-- Artificial Intelligence
-- Machine Learning
-- Natural Language Processing
-- Deep Learning
-- Applied AI
-- Intelligent Software Systems
-- Data Science
+## 🇧🇩 BanglaBhasha Compiler
 
----
+🔗 **[View Repository](https://github.com/therash08/BanglaBhasha-Compiler)**
 
-## 📚 Currently Learning
+A Bengali programming language compiler developed using **Python**.
 
-- Advanced Machine Learning
-- Natural Language Processing
-- AI Research Methodology
-- Backend Development
-- Model Evaluation
-- Research Paper Implementation
+### Key Areas
+
+* Lexical Analysis
+* Syntax Analysis
+* Compiler Phases
+* Bengali Programming Syntax
+* Interactive Web Playground
+* Compiler Design Concepts
 
 ---
 
-## 🎯 Current Goals
+## 📱 AmarCampus
 
-- Strengthen my **Machine Learning & NLP** knowledge
-- Build meaningful real-world projects
-- Contribute to **Open Source**
-- Gain experience in **AI-related research**
-- Publish research work in AI-related fields
-- Improve software engineering and problem-solving skills
-- Prepare for **higher studies and research opportunities**
+A campus management application developed using:
+
+* **Flutter**
+* **Firebase**
+* Mobile Application Development
+* Cloud-based Data Management
+
+The project focuses on building a practical digital solution for campus-related activities and services.
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 AI / Machine Learning Projects
+
+Working on projects involving:
+
+* Machine Learning
+* Natural Language Processing
+* Classification
+* Recommendation Systems
+* Data Analysis
+* Model Evaluation
+* Applied Artificial Intelligence
+
+---
+
+# 🔬 Research Interests
+
+I am particularly interested in research involving:
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 💬 Natural Language Processing
+* 🔥 Deep Learning
+* 📊 Data Science
+* ⚙️ Applied AI
+* 💻 Intelligent Software Systems
+* 🔍 Explainable and practical AI systems
+* 📚 AI Research Methodology
+
+---
+
+# 📚 Currently Learning
+
+Currently strengthening my knowledge in:
+
+* Advanced Machine Learning
+* Natural Language Processing
+* Deep Learning
+* AI Research Methodology
+* Backend Development
+* FastAPI
+* PostgreSQL
+* Model Evaluation
+* Research Paper Implementation
+* Software Engineering Practices
+
+---
+
+# 🎯 Current Goals
+
+* Strengthen my **Machine Learning and NLP** fundamentals
+* Develop high-quality **real-world AI projects**
+* Improve my **backend development** skills
+* Build production-oriented software projects
+* Contribute to **Open Source**
+* Gain practical experience in **AI-related research**
+* Implement and study research papers
+* Publish research work in **AI-related fields**
+* Improve my **software engineering and problem-solving skills**
+* Build a strong technical portfolio
+* Prepare for **higher studies and research opportunities**
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=therash08&show_icons=true&hide_border=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=therash08&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Rasidul's GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therash08&layout=compact&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therash08&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -147,34 +197,51 @@
 
 ---
 
-## 🤝 Open to Collaboration
+# 🤝 Open to Collaboration
 
-I'm interested in collaborating on:
+I'm interested in collaborating on projects related to:
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 💬 NLP Projects
-- 🔬 Research-oriented Projects
-- 📱 Flutter Applications
-- ⚙️ Backend Development
-- 🇧🇩 Bangla Technology Projects
-- 🌍 Open Source Projects
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 💬 Natural Language Processing
+* 🔬 Research-oriented AI Projects
+* 📊 Data Science
+* 📱 Flutter Applications
+* ⚙️ Backend Development
+* 🇧🇩 Bangla Technology Projects
+* 💻 Software Engineering
+* 🌍 Open Source Projects
+
+If you are working on an interesting project in any of these areas, feel free to connect with me.
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <div align="center">
 
 <a href="mailto:therash792@gmail.com">
-  <img src="https://img.shields.io/badge/Email-therash792%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-therash792%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <a href="https://www.linkedin.com/in/rasidul-hoque-chowdhury">
-  <img src="https://img.shields.io/badge/LinkedIn-Rasidul%20Hoque%20Chowdhury-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Rasidul%20Hoque%20Chowdhury-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+<br><br>
+
+<a href="https://rasidul-hoque-chowdhury.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://www.kaggle.com/rasidulchowdhury">
+  <img src="https://img.shields.io/badge/Kaggle-rasidulchowdhury-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+
+<br><br>
+
 <a href="https://github.com/therash08">
-  <img src="https://img.shields.io/badge/GitHub-therash08-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-therash08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -185,8 +252,12 @@ I'm interested in collaborating on:
 
 ### 💡 Learn • Build • Research • Improve
 
-Thanks for visiting my profile! 👋
+Building my skills one project at a time.
 
-Feel free to explore my repositories and connect with me.
+<br>
+
+**Thanks for visiting my profile! 👋**
+
+Feel free to explore my repositories, research projects, and development work.
 
 </div>
