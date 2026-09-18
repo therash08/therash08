@@ -2,15 +2,15 @@
 
 # Hi, I'm Rasidul Hoque Chowdhury
 
-### Computer Science & Engineering Student  
-### AI/ML • NLP • Software Development • Research
+### Computer Science & Engineering Student
+### AI/ML • NLP • AI Agents • Software Development • Research
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Natural+Language+Processing;AI+Agents+%26+Intelligent+Systems;Flutter+%26+Backend+Development;Learning+%7C+Building+%7C+Researching"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Natural+Language+Processing;AI+Agents+%26+Intelligent+Systems;Building+Real-World+AI+Projects;Learning+%7C+Building+%7C+Researching"
   alt="Typing SVG"
 />
 
-<br/>
+<br/><br/>
 
 <a href="https://rasidul-hoque-chowdhury.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
@@ -28,65 +28,102 @@
   <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=therash08&label=Profile%20Views&color=0e75b6&style=flat" />
-
 </div>
 
 ---
 
 ## About Me
 
-I am a **Computer Science & Engineering student at Leading University** with a growing focus on **Artificial Intelligence, Machine Learning, Natural Language Processing, and intelligent software systems**.
+I am a **Computer Science & Engineering student at Leading University** with a strong interest in **Artificial Intelligence, Machine Learning, Natural Language Processing, AI Agents, and intelligent software systems**.
 
-I enjoy turning theoretical concepts into practical projects, experimenting with AI models, building software applications, and exploring research-oriented problems.
+I enjoy transforming theoretical concepts into practical applications through software development, machine learning experiments, AI projects, and research-oriented work.
 
-Currently, I am strengthening my skills in **Machine Learning, NLP, Deep Learning, AI Agents, backend development, model evaluation, and research methodology**.
+Currently, I am strengthening my knowledge in **Machine Learning, NLP, Deep Learning, AI Agents, backend development, model evaluation, and research methodology**.
 
-My long-term goal is to build a strong technical and research profile through meaningful projects, open-source contributions, and AI-focused research.
+My goal is to build meaningful AI-powered systems, contribute to open-source projects, gain research experience, and develop a strong technical profile for future opportunities in **AI/ML research and software engineering**.
 
 ---
 
-## Technical Skills
+## What I'm Currently Working On
 
-### Programming Languages
+- Building practical **AI and Machine Learning projects**
+- Learning and experimenting with **AI Agents**
+- Improving my knowledge of **Natural Language Processing**
+- Exploring **Deep Learning and Computer Vision**
+- Developing backend systems using **FastAPI**
+- Working with **PostgreSQL and Firebase**
+- Implementing and studying **research papers**
+- Improving **model evaluation and experimentation**
+- Building real-world software with **Flutter**
+- Strengthening my **software engineering fundamentals**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,dart" />
+---
+
+# Technical Skills
+
+## Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,dart" alt="Programming Languages" />
 </p>
 
 `Python` `C++` `C` `Java` `Dart`
 
-### AI, Machine Learning & Data Science
+---
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+## AI, Machine Learning & Data Science
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
 </p>
 
-### Frameworks & Backend
+### Areas I'm Exploring
 
-<p>
+`Machine Learning`  
+`Natural Language Processing`  
+`Deep Learning`  
+`Computer Vision`  
+`AI Agents`  
+`Classification`  
+`Recommendation Systems`  
+`Data Analysis`  
+`Model Evaluation`
+
+---
+
+## Frameworks & Backend
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,fastapi,firebase" />
 </p>
 
 `Flutter` `FastAPI` `Firebase`
 
-### Databases
+---
 
-<p>
+## Databases
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 `MySQL` `PostgreSQL`
 
-### Development Tools
+---
 
-<p>
+## Development Tools
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -98,23 +135,44 @@ My long-term goal is to build a strong technical and research profile through me
 
 ## AI Travel Agent
 
-**OpenAI Agents SDK • Python • Streamlit • Pydantic**
+**Python • OpenAI Agents SDK • Streamlit • Pydantic • Agentic AI**
 
 [View Repository](https://github.com/therash08/ai-travel-agent)
 
-An AI-powered travel planning project developed using the **OpenAI Agents SDK**.
+An AI-powered travel planning assistant developed using the **OpenAI Agents SDK**.
 
-The project progressively demonstrates:
+The project demonstrates the progressive development of an AI agent from a simple implementation to a multi-agent travel planning application.
 
-- Basic AI agents
-- Structured outputs
+### Key Features
+
+- Basic AI agent configuration
+- Structured output using Pydantic
 - Custom tool calling
+- Weather forecasting tools
+- Specialized flight agents
+- Specialized hotel agents
 - Agent handoffs
-- Specialized flight and hotel agents
 - Budget guardrails
 - User context and preferences
 - Conversation memory
-- Streamlit-based chat interface
+- Multi-turn conversations
+- Streamlit chat interface
+
+### Development Flow
+
+```text
+Basic Agent
+    ↓
+Structured Output
+    ↓
+Tool Calling
+    ↓
+Agent Handoffs
+    ↓
+Guardrails + Context
+    ↓
+Streamlit AI Application
+```
 
 ---
 
@@ -124,16 +182,16 @@ The project progressively demonstrates:
 
 [View Repository](https://github.com/therash08/BanglaBhasha-Compiler)
 
-A Bengali programming language compiler designed to explore compiler construction while making programming concepts more accessible through Bengali syntax.
+A Bengali programming language compiler developed to explore compiler construction while making programming concepts more accessible using Bengali syntax.
 
-Key areas include:
+### Key Areas
 
-- Lexical analysis
-- Syntax analysis
-- Compiler phases
-- Bengali programming syntax
-- Interactive web playground
-- Compiler design concepts
+- Lexical Analysis
+- Syntax Analysis
+- Compiler Phases
+- Bengali Programming Syntax
+- Interactive Web Playground
+- Compiler Design Concepts
 
 ---
 
@@ -143,36 +201,39 @@ Key areas include:
 
 A campus-focused application designed to provide digital solutions for university-related activities and services.
 
-The project explores:
+### Key Areas
 
-- Cross-platform application development
+- Cross-platform mobile development
+- Flutter UI development
 - Firebase integration
 - Cloud-based data management
-- User-focused campus services
-- Mobile software engineering
+- Campus service management
+- User-focused application design
 
 ---
 
-## AI & Machine Learning Projects
+# AI & Machine Learning Projects
 
-I am continuously developing projects involving:
+I am continuously working on projects involving:
 
 - Machine Learning
 - Natural Language Processing
 - Deep Learning
+- Computer Vision
 - Classification
 - Recommendation Systems
-- Computer Vision
 - Data Analysis
 - Model Evaluation
 - AI Agents
 - Applied Artificial Intelligence
 
+More AI/ML projects will be added as I continue learning and experimenting.
+
 ---
 
 # Research Interests
 
-My main areas of research interest include:
+My primary research interests include:
 
 ```text
 Artificial Intelligence
@@ -181,28 +242,32 @@ Natural Language Processing
 Deep Learning
 Explainable AI
 AI Agents
+Computer Vision
 Data Science
+Applied Artificial Intelligence
 Intelligent Software Systems
-Applied AI
 Human-Centered AI
 AI Research Methodology
 ```
 
-I am particularly interested in research that connects **AI theory with practical real-world problems**.
+I am particularly interested in research that connects **AI theory, experimentation, and real-world applications**.
 
 ---
 
-# Currently Exploring
+# Currently Learning
+
+I am currently strengthening my knowledge in:
 
 ```text
 Advanced Machine Learning
 Natural Language Processing
 Deep Learning
+Computer Vision
 AI Agents
 OpenAI Agents SDK
 Model Evaluation
+Research Methodology
 Research Paper Implementation
-AI Research Methodology
 FastAPI
 PostgreSQL
 Backend Development
@@ -211,61 +276,66 @@ Software Engineering
 
 ---
 
-# Current Focus
+# Current Goals
 
-I am currently focused on improving my ability to:
+My current goals are to:
 
-- Build real-world AI/ML applications
-- Understand Machine Learning fundamentals deeply
-- Work with NLP and Deep Learning models
-- Build agentic AI systems
-- Implement research papers
-- Evaluate machine learning models
-- Develop production-oriented backend systems
+- Strengthen my Machine Learning fundamentals
+- Develop high-quality real-world AI projects
+- Build practical NLP applications
+- Explore Deep Learning and Computer Vision
+- Develop AI agent-based applications
+- Improve backend development skills
+- Build production-oriented software
 - Contribute to open-source projects
-- Conduct AI-related research
-- Build a strong research and engineering portfolio
+- Implement research papers
+- Gain practical AI research experience
+- Publish research work in AI-related fields
+- Improve problem-solving and software engineering skills
+- Build a strong technical portfolio
+- Prepare for higher studies and research opportunities
 
 ---
 
-# GitHub Statistics
+# Development Philosophy
 
-<div align="center">
+```text
+Learn
+  ↓
+Build
+  ↓
+Experiment
+  ↓
+Evaluate
+  ↓
+Research
+  ↓
+Improve
+```
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=therash08&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
-  alt="Rasidul Hoque Chowdhury GitHub Stats"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=therash08&layout=compact&hide_border=true&langs_count=8"
-  alt="Top Languages"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=therash08&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
+I believe the best way to learn technology is by combining **theory, practical implementation, experimentation, and continuous improvement**.
 
 ---
 
 # Open to Collaboration
 
-I am interested in collaborating on projects involving:
+I am interested in collaborating on projects related to:
 
-**Artificial Intelligence • Machine Learning • NLP • Deep Learning • AI Agents • Data Science • Research • Flutter • Backend Development • Bangla Technology • Open Source**
+- Artificial Intelligence
+- Machine Learning
+- Natural Language Processing
+- Deep Learning
+- AI Agents
+- Computer Vision
+- Data Science
+- Research-oriented AI projects
+- Flutter applications
+- Backend development
+- Bangla technology projects
+- Software Engineering
+- Open Source
 
-If you are working on an interesting research or software project, feel free to reach out.
+If you are working on an interesting project or research idea, feel free to reach out.
 
 ---
 
@@ -303,12 +373,16 @@ If you are working on an interesting research or software project, feel free to 
 
 <div align="center">
 
-### Learn • Build • Research • Improve
+## Learn • Build • Research • Improve
 
 Building intelligent systems and improving one project at a time.
 
 <br/>
 
 **Thanks for visiting my GitHub profile.**
+
+<br/>
+
+Feel free to explore my repositories and connect with me for collaboration, research, or software development opportunities.
 
 </div>
